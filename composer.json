@@ -3,10 +3,13 @@
     "description": "Wombat is a WordPress control panel",
     "type": "project",
     "license": "MIT",
+    "homepage": "https://github.com/estelsmith/wombat",
     "authors": [
         {
             "name": "Estel Smith",
-            "email": "estel.smith@gmail.com"
+            "email": "estel.smith@gmail.com",
+            "role": "Maintainer",
+            "homepage": "https://estelsmith.com/"
         }
     ],
     "config": {
