@@ -1,0 +1,22 @@
+{
+    "name": "estelsmith/wombat",
+    "description": "Wombat is a WordPress control panel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Estel Smith",
+            "email": "estel.smith@gmail.com"
+        }
+    ],
+    "config": {
+        "bin-dir": "bin",
+        "optimize-autoloader": true,
+        "platform": {
+            "php": "7.4.3"
+        },
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "require": {}
+}
