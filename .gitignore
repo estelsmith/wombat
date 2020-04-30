@@ -1,2 +1,6 @@
 /bin/
 /vendor/
+/node_modules/
+
+# Compiled assets
+/web/resources/
